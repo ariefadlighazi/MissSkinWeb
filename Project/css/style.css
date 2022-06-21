@@ -1,0 +1,192 @@
+/*.{
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #777;
+}
+*/
+h3{
+    font-family: Montserrat, sans-serif;
+}
+#logo {
+    
+    font-family: 'Monoton', cursive;
+    color: #ffffff;
+    
+    
+}
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: red;
+    border: 0;
+    font-size: 11px;
+    letter-spacing: 4px;
+    opacity: 0.8;
+}
+
+#carousel-img {
+    width: 100%;
+}
+
+.carousel-inner img {
+    width: 100%;
+    margin: auto;
+    height: 700px;
+}
+
+.dropdown-menu li a {
+    font-family: Montserrat, sans-serif;
+    color: black;
+}
+
+.dropdown-menu li  :hover {
+    background-color: rgba(105, 105, 105, 0.59);
+}
+
+
+#covert {
+    color:red;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+}
+
+#img-logo {
+    display: block;
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+}
+
+.navbar li a, .navbar { 
+  color: #00ff27;
+}
+
+header {
+    width: auto;
+    background-image:url(green-glowing-circle-icon-13.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 10px 0;
+}
+
+.container {
+    padding: 80px 120px;
+}
+
+#mythic {
+    color: purple;
+}
+
+#wtb {
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*.row {
+    background-color: #2a2a2a;
+    width: 101.1%;
+}
+*/
+body {
+    cursor: url(weapon-crosshair-pngrepo-com.png), auto;
+    width: 100%;
+}
+
+#our-partners {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 800;
+    letter-spacing: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#cpy {
+    background-color: black;
+    height: 30px;
+}
+
+#partners {
+    background-color: #2a2a2a;
+    width: 100%;
+}
+
+
+main {
+    margin: 50px auto 0;
+    width: 800px;
+    height: auto;
+    font-family: Montserrat, sans-serif;
+}
+
+
+
+.button {
+    margin: 10px 0;
+}
+
+#DragonLoreFN:hover ~ img {
+    content: url("img/dragon%20lore%20FN.png");
+}
+
+#DragonLoreFT:hover ~ img {
+    content: url("img/dragon%20lore%20FT.png");
+}
+#DragonLoreBS:hover ~ img {
+    content: url("img/dragon%20lore%20BS.png");
+}
+button {
+    border-radius: 10px;
+    border-color: black;
+    padding: 5px 5px;
+    background-color: #ffffff;
+}
+
+.vcenter {
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+#desc {
+    color: white;
+}
+
+.modal-header, h4, .close {
+  background-color: #2a2a2a;
+  color: #fff;
+  text-align: left;
+  font-size: 30px;
+}
+.form-group {
+    text-align: left;
+}
+
+.btn-block {
+    background-color: #a2a2a2;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+}
+.btn-block:hover{
+    background-color: #b2b2b2;
+}
+
+#video {
+    margin: 50px 0;
+}
+
+#FalchionNightFN:hover ~ img {
+    content: url(img/falchion%20night%20FN.png);
+}
+
+#FalchionNightFT:hover ~ img {
+    content: url(img/falchion%20night%20FT.png);
+}
+
+#FalchionNightBS:hover ~ img {
+    content: url(img/falchion%20night%20BS.png);
+}
+
+#contact {
+    background-color: #bcbcbc;
+}
